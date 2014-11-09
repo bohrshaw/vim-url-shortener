@@ -1,4 +1,4 @@
-" Shorten URLs with t.cn
+" Shorten URLs
 " Author: Bohr Shaw <pubohr@gmail.com>
 
 command! -nargs=1 URLShorten call s:shorten(<q-args>)
